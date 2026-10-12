@@ -32,9 +32,9 @@ class pseudobarbie:
 
 ---
 
-[`Dokist-ai/core`](https://github.com/Dokist-ai/core) — building retrieval systems that actually retrieve for legal & financial docs.
+[`Dokist-ai/core`](https://github.com/Dokist-ai/core) - building retrieval systems that actually retrieve for legal & financial docs.
 
-[`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours & learning logs.
+[`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) - tooling, agents, detours & learning logs.
 
 
 
