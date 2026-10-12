@@ -24,6 +24,7 @@ class pseudobarbie:
     stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
     mission  = "making documents less tedious"
     side projects     = "github.com/pseudobarbie/side-quests"
+    Reading:** Self-RAG (Asai et al., ICLR '24) — LLMs that audit their own retrieval. [paper](https://arxiv.org/abs/2310.11511)** 
 
     def contact(self):
         return "https://www.linkedin.com/in/pseudobarbie/"
@@ -35,7 +36,7 @@ class pseudobarbie:
 
 [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours & learning logs.
 
-**Reading:** Self-RAG (Asai et al., ICLR '24) — LLMs that audit their own retrieval. [paper](https://arxiv.org/abs/2310.11511)
+
 
 <div align="center">
 
