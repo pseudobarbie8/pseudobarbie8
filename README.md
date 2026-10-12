@@ -19,13 +19,12 @@
 
 ```python
 class pseudobarbie:
-    role     = "AI Engineer & Founder, Dokist"
-    focus    = ["RAG", "LLM Agents", "Document Intelligence", "LegalTech", "Fintech"]
-    stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
-    mission  = "making documents less tedious"
-    side projects     = "github.com/pseudobarbie/side-quests"
-    Reading  =  "Self-RAG (Asai et al., ICLR '24) — LLMs that audit their own retrieval."
-                "[paper](https://arxiv.org/abs/2310.11511)"
+    role          = "AI Engineer, building Dokist"
+    focus         = ["RAG", "LLM Agents", "Document Intelligence", "LegalTech", "Fintech"]
+    stack         = ["PyTorch", "LangChain", "FastAPI", "Docker"]
+    mission       = "making documents less tedious"
+    side_projects = "github.com/pseudobarbie/side-quests"
+    currently_reading = "Self-RAG (Asai et al., ICLR '24): LLMs that audit their own retrieval"
 
     def contact(self):
         return "https://www.linkedin.com/in/pseudobarbie/"
