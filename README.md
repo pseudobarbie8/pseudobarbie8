@@ -22,7 +22,7 @@ class pseudobarbie:
     role     = "AI Engineer & Founder, Dokist"
     focus    = ["RAG", "LLM Agents", "Document Intelligence", "LegalTech", "Fintech"]
     stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
-    mission  = "Making documents less tedious"
+    mission  = "making documents less tedious"
     side projects     = "github.com/pseudobarbie/side-quests"
 
     def contact(self):
