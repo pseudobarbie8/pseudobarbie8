@@ -19,7 +19,7 @@
 
 ```python
 class pseudobarbie:
-    role     = "AI Engineer & Founder"
+    role     = "AI Engineer & Founder, Dokist"
     org      = "@Dokist-ai"
     focus    = ["RAG", "LLM Agents", "Document Intelligence", "LegalTech", "Fintech"]
     stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
