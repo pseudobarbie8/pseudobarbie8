@@ -21,7 +21,7 @@
 class pseudobarbie:
     role          = "AI Engineer, building Dokist"
     focus         = ["RAG", "LLM Agents", "Document Intelligence", "Legaltech", "Fintech"]
-    stack         = ["PyTorch", "MCP", "LangChain", "FastAPI", "Docker"] # eval on CUAD + SEC EDGAR
+    stack         = ["PyTorch", "MCP", "LangChain", "FastAPI", "Docker"] # working with CUAD + SEC EDGAR
     mission       = "making documents less tedious"
     side_projects = "github.com/pseudobarbie/side-quests"
     currently_reading = "Self-RAG (Asai et al., ICLR '24): LLMs that audit their own retrieval"
