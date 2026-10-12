@@ -20,7 +20,7 @@
 ```python
 class pseudobarbie:
     role          = "AI Engineer, building Dokist"
-    focus         = ["RAG", "LLM Agents", "Document Intelligence", "LegalTech", "Fintech"]
+    focus         = ["RAG", "LLM Agents", "Document Intelligence", "Legaltech", "Fintech"]
     stack         = ["PyTorch", "LangChain", "FastAPI", "Docker"]
     mission       = "making documents less tedious"
     side_projects = "github.com/pseudobarbie/side-quests"
