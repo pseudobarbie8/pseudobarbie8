@@ -3,9 +3,9 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=850&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain" />
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=850&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain" />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=850&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain"
     alt="RAG systems for document-heavy industries | LLM agents to production | Python, PyTorch, LangChain" />
 </picture>
 
