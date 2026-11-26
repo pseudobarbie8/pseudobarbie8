@@ -19,7 +19,7 @@
 
 ```python
 class pseudobarbie:
-    role          = "AI Engineer, building Dokist"
+    role          = "AI Engineer, building Hyperdocto"
     focus         = ["RAG", "LLM Agents", "Document Intelligence", "Legaltech", "Fintech"]
     stack         = ["PyTorch", "MCP", "LangChain", "FastAPI", "Docker"] # eval on CUAD + SEC EDGAR
     mission       = "making documents less tedious"
@@ -32,7 +32,7 @@ class pseudobarbie:
 
 ---
 
-[`Dokist-ai/core`](https://github.com/Dokist-ai/core) - building retrieval systems that actually retrieve for legal & financial docs.
+[`Hyperdocto-ai/core`](https://github.com/Hyperdocto-ai/core) - building retrieval systems that actually retrieve for legal & financial docs.
 
 [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) - tooling, agents, detours & learning logs.
 
