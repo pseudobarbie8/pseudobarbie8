@@ -41,7 +41,7 @@ class pseudobarbie:
 <div align="center">
 
 [![core](https://img.shields.io/badge/Hyperdocto--ai/core-FF6A00?style=flat-square&logo=github&logoColor=white)](https://github.com/Hyperdocto-ai/core)
-[![side-quests](https://img.shields.io/badge/side--quests-ff69b4?style=flat-square&logo=github&logoColor=white)](https://github.com/pseudobarbie/side-quests)
+[![side-quests](https://img.shields.io/badge/side--quests-FF9B3D?style=flat-square&logo=github&logoColor=white)](https://github.com/pseudobarbie/side-quests)
 [![huggingface](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000&style=flat-square)](https://huggingface.co/pseudobarbie)
 
 </div>
